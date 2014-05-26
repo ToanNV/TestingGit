@@ -26,6 +26,7 @@ public class MainActivity extends Activity
 //    static final LatLng KIEL = new LatLng(48.09281503, 11.8225047);
     private GoogleMap map;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState)
     {
