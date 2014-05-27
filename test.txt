@@ -1,2 +1,2 @@
 a cc b 6
-n v b
+n v b n
