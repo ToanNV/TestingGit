@@ -32,7 +32,6 @@ public class MainActivity extends Activity
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         map = ((MapFragment) getFragmentManager().findFragmentById(R.id.map)).getMap();
-
 //        Marker kiel = map.addMarker(new MarkerOptions().position(KIEL).icon(
 //            BitmapDescriptorFactory.fromResource(R.drawable.ic_map_pin_red)));
 //
